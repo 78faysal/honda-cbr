@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #264653;
+}
+.mainheader{
+    margin-right: 0px;
+}
+.headertexts{
+    color: white;
+}
+.headertexts p{
+    color: #E0E0E0;
+}
+.button{
+    background-color: #E76F51;
+    color: white;
+    border: none;
+}
+.modal{
+    color: black;
+}
+.feture-img{
+    filter: grayscale(100%);
+}
+.feture-images{
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
